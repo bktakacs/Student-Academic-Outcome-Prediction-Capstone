@@ -1,0 +1,13 @@
+OrderedDict([
+('colsample_bytree', 0.8232826842387748), 
+('learning_rate', 0.010025832296086752), 
+('max_bin', 492), 
+('max_depth', 52),
+('min_child_samples', 1), 
+('min_child_weight', 1.8152323127483947), 
+('n_estimators', 3952), 
+('num_leaves', 126), 
+('reg_alpha', 1e-09), 
+('reg_lambda', 5.056245134673608e-08), 
+('subsample', 0.6138764486219696), 
+('subsample_freq', 7)])
