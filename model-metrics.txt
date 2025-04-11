@@ -1,0 +1,49 @@
+# Model Metrics Report
+
+## ARIMA
+- Parameters: (p,d,q) = (2, 1, 2)
+- AIC: -320.873
+- BIC: -302.523
+- RMSE: 0.438
+- MAE: 0.382
+
+## SARIMAX1
+- Parameters: (p,d,q) = (2, 1, 2), (P,D,Q,s) = (2, 1, 2, 12)
+- AIC: 
+- BIC: 
+- RMSE: 
+- MAE: 
+
+## SARIMAX
+- Parameters: (p,d,q) = (, , ), (P,D,Q,s) = (, , , )
+- AIC: 
+- BIC: 
+- RMSE: 
+- MAE: 
+
+## SARIMAX
+- Parameters: (p,d,q) = (, , ), (P,D,Q,s) = (, , , )
+- AIC: 
+- BIC: 
+- RMSE: 
+- MAE: 
+
+## VAR
+- Lag Order: 
+- AIC: 
+- BIC: 
+- RMSE: 
+- MAE: 
+
+## Facebook Prophet
+- Seasonality: 
+- Changepoint Prior Scale: 
+- RMSE: 
+- MAE: 
+
+## XGBoost
+- Learning Rate: 
+- Max Depth: 
+- N_estimators: 
+- RMSE: 
+- MAE: 
