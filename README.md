@@ -23,14 +23,14 @@ In days most recent, I strode into a kingdom of student data—grades, demograph
 └── README.md           ← You read it now, oh valiant Recruiter
 
 ## Data & Methodology
-	- Raw features: demographics (age, gender), test scores, attendance, engagement logs.
-	-	Engineered features: rolling averages, flag indicators for missingness, zip-code socioeconomic buckets.
-	-	Models assessed:
-   - Logistic Regression with L₂ regularization
-	 - Random Forest
-	 - XGBoost
-   - LGBM
-	 - Evaluation: stratified cross-validation, ROC‑AUC, confusion matrix, calibration curves, SHAP-value interpretation
+- Raw features: demographics (age, gender), test scores, attendance, engagement logs.
+- Engineered features: rolling averages, flag indicators for missingness, zip-code socioeconomic buckets.
+- Models assessed:
+	- Logistic Regression with L₂ regularization
+ 	- Random Forest
+ 	- XGBoost
+	- LGBM
+- Evaluation: stratified cross-validation, ROC‑AUC, confusion matrix, calibration curves, SHAP-value interpretation
 
 ## Key Results
 - Best model: LGBM with Bayesian optimized hyperparameters
