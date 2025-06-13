@@ -7,21 +7,6 @@ _Author:_ Ben Takacs
 ## Project Overview
 In days most recent, I strode into a kingdom of student data—grades, demographic lore, and engagement metrics. My noble charge: to wield algorithms and foresee each student’s academic destiny. Using preprocessing, feature crafting, and models ranging from logistic regression to XGBoost, this Capstone stands as testament to predictive might and interpretability.
 
-## Contents
-├── data/               
-│   ├── raw/            ← Original datasets  
-│   ├── processed/      ← Cleaned and engineered features  
-├── notebooks/          ← Jupyter explorations and modeling  
-├── src/                
-│   ├── data_preprocessing.py  
-│   ├── feature_engineering.py  
-│   ├── model_training.py  
-│   └── model_evaluation.py  
-├── reports/            ← Visualizations and results  
-├── environment.yml     ← Conda environment specification  
-├── requirements.txt    
-└── README.md           ← You read it now, oh valiant Recruiter
-
 ## Data & Methodology
 - Raw features: demographics (age, gender), test scores, attendance, engagement logs.
 - Engineered features: rolling averages, flag indicators for missingness, zip-code socioeconomic buckets.
